@@ -3,8 +3,12 @@ Example:
 - Added new feature to improve the app.
 
 # PR Dependencies
-Specify the list of PRS that yours depends on.
-Example
-(if it doesn't have any dependencies, this section must be removed)
+(If the PR doesn't have any dependencies this section must be removed)  
+Specify the list of PRS that yours depends on. This PR will **not be merged** until the following are merged:
+
+Example:
+- [ ] [PR#1234](https://github.com/TotalHIPAA/AE-FE-1/pull/1234)
 
 # Demo
+(If the PR doesn't have demo this section must be removed)  
+Show in this section the demo of your changes.
