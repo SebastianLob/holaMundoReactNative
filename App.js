@@ -1,4 +1,4 @@
-// import { StatusBar } from 'expo-status-bar';
+
 import React, { useState } from 'react';
 import { Button, StyleSheet, Text, TextInput, View, Dimensions, FlatList, SectionList } from 'react-native';
 import Constants from "expo-constants";
