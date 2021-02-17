@@ -4,7 +4,7 @@ Example:
 
 # PR Dependencies
 (If the PR doesn't have any dependencies this section must be removed)  
-Specify the list of PRS that yours depends on. This PR will **not be merged** until the following are merged:
+Specify the list of PRs that yours depends on. This PR will **not be merged** until the following are merged:
 
 Example:
 - [ ] [PR#1234](https://github.com/TotalHIPAA/AE-FE-1/pull/1234)
